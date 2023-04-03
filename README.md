@@ -2,8 +2,8 @@
 A two-player bomberman like game created in Java [Without Game Engine].
 
 To run the game:
-1.) Import the project in any IDE for e.g Eclipse (General -> Existing Projects into workspace)
-2.) Click/Run the BombMasterApp.jar
+* 1.) Import the project in any IDE for e.g Eclipse (General -> Existing Projects into workspace)
+* 2.) Click/Run the BombMasterApp.jar
 
 Splash Screen:
 ![image](https://user-images.githubusercontent.com/42210250/229550602-b7c36fcd-255d-49de-9394-6773fb53a419.png)
