@@ -25,3 +25,6 @@ In-game Screen 1:
 In-game Screen 2:
 ![image](https://user-images.githubusercontent.com/42210250/229552404-210fab02-400a-4508-b0f2-f1de97aa0b31.png)
 
+How-to Screen:
+![image](https://user-images.githubusercontent.com/42210250/229552842-b9f30c98-ef71-4870-a53e-6516b59f63ea.png)
+
