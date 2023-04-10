@@ -1,5 +1,5 @@
 # Bomb-Master
-A two-player bomberman like game created in Java [Without Game Engine].
+A two-player bomberman like game created in Java to demonstrate skills in OOP and datastructures [Without Game Engine]. [Subject for refactoring since this was coded before my IT industry years]
 
 To run the game:
 * 1.) Import the project in any IDE for e.g Eclipse (General -> Existing Projects into workspace)
